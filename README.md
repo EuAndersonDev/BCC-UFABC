@@ -75,7 +75,3 @@ gcc -Wall -Wextra -pedantic main.c -o programa
 Todo o material disponibilizado neste repositório tem fins estritamente **educacionais e de consulta pessoal**. Se você é estudante da UFABC, utilize este código como referência de estudo, respeitando as diretrizes de integridade acadêmica da universidade e as regras de cada docente quanto ao envio de listas e projetos.
 
 
-
-
-
-```
